@@ -130,7 +130,7 @@ function process(x: string | number): string | number {
 // ============================================================
 // SECTION 7: ENUMS
 // ============================================================
-
+// ?? is has alternative also 
 enum Direction { Up, Down, Left, Right }         // 0,1,2,3
 enum Status { OK = 200, NotFound = 404 }          // custom values
 enum Color { Red = "RED", Blue = "BLUE" }         // string enum
