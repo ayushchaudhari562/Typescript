@@ -63,6 +63,11 @@ let car: { readonly brand: string; model: string } = {
 let id: string | number = "ABC";
 id = 123;
 
+// let name1: string = "John";
+// let age1: number = 25;
+// let isActive: boolean = true;
+// let nothing: null = null;
+// let notDefined: undefined = undefined;
 // Literal: exact values allowed
 let dir: "up" | "down" | "left" | "right" = "up";
 
