@@ -140,6 +140,7 @@ const enum Size { S = "S", M = "M", L = "L" }    // const enum (optimized)
 // SECTION 8: TYPE ASSERTION
 // ============================================================
 
+//unknow check the the type during compling 
 let someVal: unknown = "Hello";
 let len: number = (someVal as string).length;
 let len2: number = (<string>someVal).length; // not in JSX,,but why its not in jsxx
