@@ -364,6 +364,9 @@ function Log(target: Function) {
 // esModuleInterop: true      - better module compat
 // declaration: true          - generate .d.ts files
 
+//sec 19
+
+
 // ============================================================
 // SECTION 18: BEST PRACTICES
 // ============================================================
