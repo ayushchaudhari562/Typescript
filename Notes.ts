@@ -363,10 +363,6 @@ function Log(target: Function) {
 // strictNullChecks: true     - strict null checks
 // esModuleInterop: true      - better module compat
 // declaration: true          - generate .d.ts files
-
-//sec 19
-
-
 // ============================================================
 // SECTION 18: BEST PRACTICES
 // ============================================================
